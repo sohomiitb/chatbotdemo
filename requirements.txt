@@ -2,3 +2,5 @@ streamlit>=1.26.0
 hugchat
 streamlit-chat
 streamlit-extras
+pandas==1.3.5
+scikit-learn==1.1.0
